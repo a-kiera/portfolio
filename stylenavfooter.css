@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap');
+
+/* navbar */
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    width: 100%;
+    padding: 14px 8px;
+    background-color: olive;
+    border-bottom: 1px solid #f0ead8;
+}
+
+/* navigation text links */
+
+nav .links a {
+    color: #f0ead8;
+    font-size: 17px;
+    font-family: 'Google Sans Code', monospace, Arial, sans-serif;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+
+nav .links a:hover {
+    font-weight: bold;
+    color: #d2bf81;
+}
+
+
+/* navbar star home logo */
+
+nav .logo {
+    border: 1px solid #f0ead8;
+}
+
+nav .logo a {
+    color: #f0ead8;
+    font-size: 24px;
+}
+
+nav .logo a:hover {
+    color: #d2bf81;
+}
+
+/* navbar social icons */
+nav .icons {
+    border: 1px solid #f0ead8;
+    padding-right: 16px;
+}
+
+nav .icons a {
+    color: #f0ead8;
+    font-size: 17px;
+    border: 1px solid #f0ead8;
+}
+
+
+nav .icons a:hover {
+    text-decoration: none;
+    color: #d2bf81;
+}
+
+/* footer */
+
+footer {
+    color: #f0ead8;
+    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-size: 8px;
+    text-align: center;
+    margin-top: auto; /*pushes footer to bottom of page*/
+}

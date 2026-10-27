@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    background-color: olive;
+    scroll-behavior: smooth;
+}
+
+/* projects section */
+
+.projects {
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+    background-color: olive;
+}
+
+/* projects title and text */
+.projects h2 {
+    color: #f0ead8;
+    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
+
+.description {
+    color: #f0ead8;
+    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/*img gallery*/
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    justify-content: center;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    align-items: center;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+    .column {
+    flex: 50%;
+    max-width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+    flex: 100%;
+    max-width: 100%;
+    }
+}
+
+.projects h3 {
+    color: white;
+    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* footer */
+footer p {
+    color: #f0ead8;
+    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-size: 8px;
+    text-align: center;
+    position: static;
+    margin-top: auto; /*pushes footer to bottom of page*/
+}

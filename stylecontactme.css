@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    background-color: olive;
+    scroll-behavior: smooth;
+}
+
+/* contact form */
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 300px;
+    margin-top: 100px;
+    background-color: olive;
+}
+
+/*form title*/
+
+.contact h2 {
+    color: #f0ead8;
+    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+}
+
+/* form styling */
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0 auto;
+}
+
+form label {
+    color: white;
+    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-size: 14px;
+    display: block;
+    margin: 0 auto;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+}
+
+textarea {
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
