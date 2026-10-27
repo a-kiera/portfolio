@@ -27,7 +27,7 @@ A simple, retro design with earthy colour palette.
 
 * Contact form 
 
-![contact]()
+![contact](https://github.com/a-kiera/portfolio/blob/main/assets/screenshots/contact%20form%20better.png?raw=true)
 
 
 # Technologies #
