@@ -6,8 +6,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    max-width: 1000px;
-    margin: 0 auto;
     padding: 48px 24px;
     background-color: olive;
     border: 2px solid #f0ead8;
@@ -15,35 +13,38 @@
 
 /* landing tagline */
 
-.landing h2 {
+h2 {
     color: #f0ead8;
     font-family: 'Google Sans Code', monospace, Arial, sans-serif;
     font-size: 45px;
     border: 1px solid #f0ead8;
+    max-width: 100%;
+    width: 70%;
 }
 
 /* landing welcome & intro text */
 
-.landing p.welcome, .landing p.intro {
+p.welcome, p.intro {
     color: #f0ead8;
+    border: 1px solid #f0ead8;
     font-family: 'Google Sans Code', monospace, Arial, sans-serif;
 }
 
-.landing p.welcome {
+p.welcome {
     font-size: 25px;
     font-weight: bold;
-    border: 1px solid #f0ead8;
 }
 
-.landing p.intro {
+p.intro {
     font-size: 20px;
-    border: 1px solid #f0ead8;
 }
 
 /*image*/
 
-.landing img.kie-left {
-    max-width: 250px;
+.profilepic img.kie-left {
+    width: 250px;
+    max-width: 100%;
+    margin: 16px;
     border-right: 2px #f0ead8 solid;
     border-bottom: 2px #f0ead8 solid;
     border-radius: 30% 10% 30% 10%;
