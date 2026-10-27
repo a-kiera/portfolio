@@ -1,3 +1,2 @@
-# portfolio-LP
-personal portfolio v1 for frontend++ course
-
+# portfolio
+First version of personal portfolio for Learning People UK course.
