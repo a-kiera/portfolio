@@ -59,3 +59,17 @@ textarea {
     border: 1px solid #ccc;
     border-radius: 10px;
 }
+
+/* submit button */
+form .submit {
+    background-color: #d2bf81;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0px 5px #f0ead8;
+    font-size: 16px;
+    color: white;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
