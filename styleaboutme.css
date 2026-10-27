@@ -16,7 +16,22 @@
     border: 3px #f0ead8 solid;
     border-radius: 15% 10% 15% 10%;
     display: block;
-    margin: auto;
+    margin: 0 auto;
+}
+
+/*resume button*/
+.button {
+    background-color: #d2bf81;
+    border: none;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0px 5px #f0ead8;
+    font-size: 18px;
+    color: white;
+    margin: 24px auto;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 /*about me title*/
@@ -37,7 +52,6 @@
     font-size: 20px;
     font-weight: bold;
     text-align: center;
-    display: block;
 }
 
 .aboutme p {
@@ -51,4 +65,17 @@
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+
+.aboutme ul {
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.aboutme li {
+    color: #f0ead8;
+    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    padding: 0;
 }
