@@ -1,14 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap');
 
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    margin: 0;
-    background-color: olive;
-    scroll-behavior: smooth;
-}
-
 /* contact form */
 
 .contact {
@@ -16,7 +7,6 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding-bottom: 300px;
     background-color: olive;
 }
 
@@ -27,14 +17,12 @@ body {
     font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
     font-weight: bold;
     font-size: 45px;
-    text-align: center;
 }
 
 .contact p {
     color: #f0ead8;
     font-family: 'Google Sans Code', monospace, Arial, sans-serif;
     font-size: 16px;
-    margin: 0 auto;
 }
 
 /* form styling */
@@ -44,7 +32,7 @@ form {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 20 auto;
+    margin: 0 auto;
 }
 
 form label {
