@@ -24,7 +24,7 @@ body {
 
 .landing h2 {
     color: #f0ead8;
-    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-family: 'Google Sans Code', monospace, Arial, sans-serif;
     font-size: 45px;
     border: 1px solid #f0ead8;
 }
@@ -33,7 +33,7 @@ body {
 
 .landing p.welcome, .landing p.intro {
     color: #f0ead8;
-    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-family: 'Google Sans Code', monospace, Arial, sans-serif;
 }
 
 .landing p.welcome {

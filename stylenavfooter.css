@@ -31,10 +31,6 @@ nav .links a:hover {
 
 /* navbar star home logo */
 
-nav .logo {
-    border: 1px solid #f0ead8;
-}
-
 nav .logo a {
     color: #f0ead8;
     font-size: 24px;
@@ -46,14 +42,12 @@ nav .logo a:hover {
 
 /* navbar social icons */
 nav .icons {
-    border: 1px solid #f0ead8;
     padding-right: 16px;
 }
 
 nav .icons a {
     color: #f0ead8;
     font-size: 17px;
-    border: 1px solid #f0ead8;
 }
 
 
