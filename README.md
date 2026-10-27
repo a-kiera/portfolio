@@ -1,25 +1,45 @@
 # Project Title: Kie's Personal Portfolio #
-##Welcome##
+#Welcome#
 This portfolio site is my first venture into the world of development and so holds a special place in my heart! 
 
-##Description##
+#Description#
 I designed this website to submit as a project for the Frontend Plus course I am currently completing with Learning People UK. It is built to showcase eventual future projects and introduce me as a candidate to future employers, allowing for more possible work opportunities.
 
-Being the first independent project that I have started from scratch, I learned (too) many invaluable lessons. Primarily the importance of evaluating and planning how to organise your files beforehand for a more efficient coding experience. Not only, I also learned what my weak points are and where I should dedicate extra studying time (e.g. I personally struggled with setting up `display: flex` properly).
+Being the first independent project that I have started from scratch, I learned *(too)* many invaluable lessons. Primarily the importance of evaluating and planning how to organise your files beforehand for a more efficient coding experience. 
 
-##Features##
+Not only, I also learned what my weak points are and where I should dedicate extra study time (e.g. I personally struggled with setting up `display: flex` properly).
+
+#Features#
+A simple, retro design with earthy colour palette.
+
+* Navigation bar with home link in the shape of a star logo, page links and clickable social media icons
+
+(https://github.com/a-kiera/portfolio/blob/main/assets/screenshots/navbar.png?raw=true)
+
+* Clickable "resume" button on About Me page targeted towards potential employers who would like instant access to previous professional employment
+
+(https://github.com/a-kiera/portfolio/blob/main/assets/screenshots/resume%20button.png?raw=true)
+
+* Responsive projects page, tested on resized screen display
+
+(https://github.com/a-kiera/portfolio/blob/main/assets/screenshots/projects%20desktop.png?raw=true)
+(https://github.com/a-kiera/portfolio/blob/main/assets/screenshots/projects%20resized.png?raw=true)
+
+* Contact form 
 
 
-##Technologies## 
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used to build the structure of the site.
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) was used to add styles and adjust layout.
-[CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox) was used to arrange elements symmetrically in columns.
-[VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
-[Git](https://git-scm.com/) was used for the version control of the website.
-[GitHub](https://github.com/) was used to host the code of the website.
 
-##Deployment##
-###Deployment to GitHub Pages###
+
+#Technologies#
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used to build the structure of the site.
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) was used to add styles and adjust layout.
+* [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox) was used to arrange elements symmetrically in columns.
+* [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+* [Git](https://git-scm.com/) was used for the version control of the website.
+* [GitHub](https://github.com/) was used to host the code of the website.
+
+#Deployment#
+##Deployment to GitHub Pages##
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 * In the GitHub repository, navigate to the Settings tab
@@ -28,19 +48,19 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 The live link can be found [here]
 
-##Contact##
+#Contact#
 Kie
 [amykiera.m@gmail.com]
 
 Let me know if you have any feedback or suggestions!
 Thank you for reading about [Kie's portfolio]
 
-##Credits## 
+#Credits# 
 External tutorials used for project:
 W3C Flexbox - [https://www.w3schools.com/css/css3_flexbox_responsive.asp]
 
 
-##License##
+#License#
 MIT License
 
 Copyright (c) [2026] [Amy Kiera Macleod]
