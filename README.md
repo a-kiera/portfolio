@@ -49,9 +49,6 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 The live link can be found [here]
 
 # Contact #
-Kie
-[amykiera.m@gmail.com]
-
 Let me know if you have any feedback or suggestions!
 Thank you for reading about [Kie's portfolio]
 
