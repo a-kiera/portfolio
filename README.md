@@ -29,6 +29,7 @@ A simple, retro design with earthy colour palette.
 
 ![contact](https://github.com/a-kiera/portfolio/blob/main/assets/screenshots/contact%20form%20better.png?raw=true)
 
+# Future Improvements #
 
 # Technologies #
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used to build the structure of the site.
