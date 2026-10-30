@@ -1,6 +1,6 @@
 # Project Title: Kie's Portfolio #
 # Welcome #
-This portfolio site is a first venture into the world of development (and so holds a special place in my heart!).
+This [portfolio](https://a-kiera.github.io/portfolio/) site is a first venture into the world of development (and so holds a special place in my heart!).
 
 # Description #
 I designed this website to submit as a project for the Frontend Plus course I am currently completing with Learning People UK. It is built to showcase eventual future projects and introduce me as a potential candidate to future employers.
