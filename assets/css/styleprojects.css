@@ -2,6 +2,14 @@
 
 /* projects section */
 
+.projects h3 {
+    color: white;
+    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
 .projects {
     padding: 20px;
     text-align: center;
@@ -9,6 +17,7 @@
 }
 
 /* projects title and text */
+
 .projects h1 {
     color: #f0ead8;
     font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
@@ -34,7 +43,10 @@
     justify-content: center;
 }
 
+/* Credit to tutorial: https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_image_gallery */
+
 /* Create four equal columns that sits next to each other */
+
 .column {
     flex: 25%;
     max-width: 25%;
@@ -64,10 +76,4 @@
     }
 }
 
-.projects h3 {
-    color: white;
-    font-family: 'Google Sans Code', 'monospace', Arial, sans-serif;
-    font-size: 20px;
-    text-align: center;
-    margin-top: 10px;
-}
+/*Credit end*/

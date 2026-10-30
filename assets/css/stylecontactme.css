@@ -23,6 +23,7 @@
     color: #f0ead8;
     font-family: 'Google Sans Code', monospace, Arial, sans-serif;
     font-size: 16px;
+    margin: 24px;
 }
 
 /* form styling */
@@ -73,3 +74,4 @@ form .submit {
     text-decoration: none;
     cursor: pointer;
 }
+

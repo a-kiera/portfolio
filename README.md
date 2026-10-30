@@ -1,13 +1,13 @@
-# Project Title: Kie's Personal Portfolio #
+# Project Title: Kie's Portfolio #
 # Welcome #
-This portfolio site is my first venture into the world of development and so holds a special place in my heart! 
+This portfolio site is a first venture into the world of development (and so holds a special place in my heart!).
 
 # Description #
-I designed this website to submit as a project for the Frontend Plus course I am currently completing with Learning People UK. It is built to showcase eventual future projects and introduce me as a candidate to future employers, allowing for more possible work opportunities.
+I designed this website to submit as a project for the Frontend Plus course I am currently completing with Learning People UK. It is built to showcase eventual future projects and introduce me as a potential candidate to future employers.
 
-Being the first independent project that I have started from scratch, I learned *(too)* many invaluable lessons. Primarily the importance of evaluating and planning how to organise your files beforehand for a more efficient coding experience. 
+Being the first independent project that I have started from scratch, I learned the importance of evaluating and planning how to organise your files beforehand for a more efficient coding experience. 
 
-Not only, I also learned what my weak points are and where I should dedicate extra study time (e.g. I personally struggled with setting up `display: flex` properly).
+Not only, I also learned what my weak points are and where I should dedicate extra study time, such as ensuring the site is responsive to different screen sizes.
 
 # Features #
 A simple, retro design with earthy colour palette.
@@ -29,7 +29,14 @@ A simple, retro design with earthy colour palette.
 
 ![contact](https://github.com/a-kiera/portfolio/blob/main/assets/screenshots/contact%20form%20better.png?raw=true)
 
+* One issue found was that the navigation bar in particular was not responsive
+
+![bad-navbar]()
+
 # Future Improvements #
+- [ ] Replace placeholder images on 'Projects' page with a responsive gallery that contains photos and descriptions of actual practical work
+- [ ] Revisit the web design to make it more eye-catching for the user, such as adjusting colour palette or coding more complex page layouts
+- [ ] Incorporating interactive features to keep user engaged: next I would like to work on adding a "guestbook" where it's possible for users who visit the site to sign their name
 
 # Technologies #
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used to build the structure of the site.
@@ -47,15 +54,17 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 * From the source section drop-down menu, select the Main Branch, then click "Save".
 * The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here]
+The live link can be found [here](https://a-kiera.github.io/portfolio/).
 
 # Contact #
 Let me know if you have any feedback or suggestions!
-Thank you for reading about [Kie's portfolio]
+Thank you for reading about my portfolio.
 
 # Credits # 
 External tutorials used for project:
-W3C Flexbox - [https://www.w3schools.com/css/css3_flexbox_responsive.asp]
+W3C - 
+Flexbox: [https://www.w3schools.com/css/css3_flexbox_responsive.asp]
+Flexbox image gallery: [https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_image_gallery]
 
 
 # License #
