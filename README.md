@@ -31,12 +31,17 @@ A simple, retro design with earthy colour palette.
 
 * One issue found was that the navigation bar in particular was not responsive
 
-![bad-navbar]()
+![bad-navbar](https://github.com/a-kiera/portfolio/blob/main/assets/screenshots/bad-navbar.png)
+
+* To fix this I inspected the break point using the devtools in Chrome and used @media queries accordingly.
+
+![good-navbar](https://github.com/a-kiera/portfolio/blob/main/assets/screenshots/good-navbar.png)
 
 # Future Improvements #
 - [ ] Replace placeholder images on 'Projects' page with a responsive gallery that contains photos and descriptions of actual practical work
 - [ ] Revisit the web design to make it more eye-catching for the user, such as adjusting colour palette or coding more complex page layouts
 - [ ] Incorporating interactive features to keep user engaged: next I would like to work on adding a "guestbook" where it's possible for users who visit the site to sign their name
+- [ ] Better adjust media queries for accessibility, for example navbar text might be small for users with poor eyesight
 
 # Technologies #
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used to build the structure of the site.
