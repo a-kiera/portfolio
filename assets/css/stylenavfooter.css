@@ -77,3 +77,18 @@ footer {
     padding: 16px;
     margin-top: auto; 
 }
+
+
+/* Media queries for responsive layout */
+
+@media only screen and (max-width: 600px) {
+    nav .links a, nav .icons  {
+        font-size: 0.8em;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    nav .links a, nav .icons  {
+        font-size: 0.6em;
+    }
+}
