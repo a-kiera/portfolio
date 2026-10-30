@@ -51,6 +51,8 @@ A simple, retro design with earthy colour palette.
 * [Git](https://git-scm.com/) was used for the version control of the website.
 * [GitHub](https://github.com/) was used to host the code of the website.
 
+All code was validated using [Jigsaw](https://jigsaw.w3.org/css-validator/) for CSS and [W3C](https://validator.w3.org/) for HTML.
+
 # Deployment #
 ## Deployment to GitHub Pages ##
 The site was deployed to GitHub pages. The steps to deploy are as follows:
